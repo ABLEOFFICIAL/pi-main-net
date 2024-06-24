@@ -13,6 +13,8 @@ body {
 header {
     background-color: #783a8c;
     height: 50px;
+    position: fixed;
+    width: 100%;
 }
 
 
